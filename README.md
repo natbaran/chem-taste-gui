@@ -27,4 +27,4 @@ Predict the taste of small molecules and visualize their 2D structures using RDK
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/chem-taste-gui.git
+git clone https://github.com/natbaran/chem-taste-gui.git
